@@ -1,9 +1,9 @@
 ```markdown
 # Проект "НедвижимАгентЭтаж"
 
-![Скрин](https://github.com/MelnikovDenisG/ai_agent_bot_telegram/blob/main/Screen7.png?raw=true)
+![Скрин](https://raw.githubusercontent.com/MelnikovDenisG/ai_agent_bot_telegram/refs/heads/main/Screen7.png)
 
-![Скрин](https://github.com/MelnikovDenisG/ai_agent_bot_telegram/blob/main/Screen8.png?raw=true)
+![Скрин](https://raw.githubusercontent.com/MelnikovDenisG/ai_agent_bot_telegram/refs/heads/main/Screen8.png)
 
 **НедвижимАгентЭтаж** — это инновационный ИИ-бот для агентства недвижимости, созданный для автоматизации взаимодействия с клиентами. Бот способен вести осмысленные диалоги, отвечать на вопросы по базе знаний, а также записывать клиентов на встречи и добавлять их в Google Календарь.
 
