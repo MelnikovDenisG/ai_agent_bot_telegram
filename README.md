@@ -5,7 +5,7 @@
 
 ![НедвижимАгентЭтаж](https://github.com/MelnikovDenisG/ai_agent_bot_telegram/blob/b319b770e15eeceed537656965c27a5c53af98ab/Screen7.png)  
 *Изображение демонстрирует интерфейс бота и его взаимодействие с клиентами.*
-![Альтернативный текст](https://github.com/MelnikovDenisG/ai_agent_bot_telegram/blob/main/Screen7.png?raw=true).
+![Скрин](https://github.com/MelnikovDenisG/ai_agent_bot_telegram/blob/main/Screen7.png?raw=true)
 
 ![Скрин](https://raw.githubusercontent.com/MelnikovDenisG/ai_agent_bot_telegram/refs/heads/main/Screen8.png)
 
