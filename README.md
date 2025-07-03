@@ -1,7 +1,7 @@
 ```markdown
 # Проект "НедвижимАгентЭтаж"
 
-![Иллюстрация бота](https://github.com/MelnikovDenisG/ai_agent_bot_telegram/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA7.JPG)
+![Иллюстрация бота]([https://github.com/MelnikovDenisG/ai_agent_bot_telegram/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA7.JPG](https://github.com/MelnikovDenisG/ai_agent_bot_telegram/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA8.JPG?raw=true))
 
 ![Иллюстрация бота](https://github.com/MelnikovDenisG/ai_agent_bot_telegram/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA8.JPG)
 
