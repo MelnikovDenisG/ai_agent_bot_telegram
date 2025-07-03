@@ -1,7 +1,7 @@
 ```markdown
 # Проект "НедвижимАгентЭтаж"
 
-![Скрин](https://raw.githubusercontent.com/MelnikovDenisG/ai_agent_bot_telegram/refs/heads/main/Screen7.png)
+![Альтернативный текст]([https://github.com/MelnikovDenisG/ai_agent_bot_telegram/blob/main/Screen7.png?raw=true]).
 
 ![Скрин](https://raw.githubusercontent.com/MelnikovDenisG/ai_agent_bot_telegram/refs/heads/main/Screen8.png)
 
