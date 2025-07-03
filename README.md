@@ -1,7 +1,7 @@
 ```markdown
 # Проект "НедвижимАгентЭтаж"
 
-<img src=" https://github.com/MelnikovDenisG/ai_agent_bot_telegram/blob/main/Screen7.png?raw=true) " alt="Скрин">
+![Скрин](https://github.com/MelnikovDenisG/ai_agent_bot_telegram/blob/main/Screen7.png?raw=true)
 
 <img src=" https://github.com/MelnikovDenisG/ai_agent_bot_telegram/blob/main/Screen8.png?raw=true) " alt="Скрин">
 
